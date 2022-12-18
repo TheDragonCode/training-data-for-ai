@@ -1,6 +1,6 @@
 # Training data for the neural network
 
-![the dragon code Training data](https://preview.dragon-code.pro/the-dragon-code/Training-data.svg)
+![the dragon code Training data](https://preview.dragon-code.pro/live-chats/training-data.svg)
 
 ## Data
 
