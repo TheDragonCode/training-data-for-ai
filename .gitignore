@@ -1,0 +1,6 @@
+.idea/
+
+*.bak
+*.cache
+*.clover
+*.orig
